@@ -11,3 +11,5 @@ Here is how you can use it if you are not a developer.
 
 You can change the number of news items that appear on your page if you change the number in the endpoint. Inside the app.js file you have an endpoint https://financialmodelingprep.com/api/v3/fmp/articles?page=0&size=5&apikey=${apiKey}`
 Change the size from 5 to 10, for example, to see 10 news items instead of 5. And save the result. 
+
+To get live news on the most important things happening with companies listed on stock exchanges, read this <a href="https://diversset.com/news">useful stock market news page</a> 
